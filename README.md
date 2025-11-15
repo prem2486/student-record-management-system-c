@@ -1,3 +1,6 @@
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 **📘 Student Record Management System in C**
 A simple and efficient Student Record Management System built in C using file handling.
 The project supports adding, displaying, searching, updating, and deleting student records.
